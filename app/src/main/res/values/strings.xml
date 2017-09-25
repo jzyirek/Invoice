@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Invoice Total</string>
+    <string name="SubtotalLabel">Subtotal</string>
+    <string name="DiscountPercentLabel">Discount Percent</string>
+    <string name="DiscountAmountLabel">Discount Amount</string>
+    <string name="TotalLabel">Total</string>
+    <string name="InputTextEdit">0.00</string>
+    <string name="DiscountPercentAmtLabel">10%</string>
+    <string name="DiscountAmtLabel">$15.00</string>
+    <string name="TotalAmtLabel">$135.00</string>
+</resources>
